@@ -1,0 +1,4 @@
+pandas
+requests
+SQLAlchemy
+psycopg[binary]

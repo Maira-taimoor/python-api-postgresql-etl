@@ -1,0 +1,32 @@
+2026-07-16 14:41:05,652 - INFO - API-to-PostgreSQL ETL pipeline started.
+2026-07-16 14:41:10,785 - INFO - Creating PostgreSQL database engine.
+2026-07-16 14:41:11,300 - INFO - Testing PostgreSQL connection.
+2026-07-16 14:41:11,616 - INFO - Connected successfully to database 'Olist_db' as user 'postgres'.
+2026-07-16 14:41:11,622 - INFO - Starting data extraction from API.
+2026-07-16 14:41:11,829 - INFO - Extraction completed. Records extracted: 10
+2026-07-16 14:41:11,847 - INFO - Starting data transformation.
+2026-07-16 14:41:11,860 - INFO - Transformation completed. Records remaining: 10
+2026-07-16 14:41:11,860 - INFO - Starting data validation.
+2026-07-16 14:41:11,862 - INFO - Data validation completed successfully.
+2026-07-16 14:41:11,863 - INFO - Starting PostgreSQL load into public.api_users.
+2026-07-16 14:41:12,355 - INFO - PostgreSQL load completed. Rows loaded: 10
+2026-07-16 14:41:12,355 - INFO - Verifying PostgreSQL load.
+2026-07-16 14:41:12,358 - INFO - Verification completed. PostgreSQL row count: 10
+2026-07-16 14:41:12,358 - INFO - API-to-PostgreSQL ETL pipeline completed successfully.
+2026-07-16 14:41:12,359 - INFO - Database engine disposed.
+2026-07-16 14:49:37,774 - INFO - API-to-PostgreSQL ETL pipeline started.
+2026-07-16 14:49:42,750 - INFO - Creating PostgreSQL database engine.
+2026-07-16 14:49:43,030 - INFO - Testing PostgreSQL connection.
+2026-07-16 14:49:43,164 - INFO - Connected successfully to database 'Olist_db' as user 'postgres'.
+2026-07-16 14:49:43,165 - INFO - Starting data extraction from API.
+2026-07-16 14:49:43,387 - INFO - Extraction completed. Records extracted: 10
+2026-07-16 14:49:43,390 - INFO - Starting data transformation.
+2026-07-16 14:49:43,424 - INFO - Transformation completed. Records remaining: 10
+2026-07-16 14:49:43,424 - INFO - Starting data validation.
+2026-07-16 14:49:43,426 - INFO - Data validation completed successfully.
+2026-07-16 14:49:43,426 - INFO - Starting PostgreSQL load into public.api_users.
+2026-07-16 14:49:43,642 - INFO - PostgreSQL load completed. Rows loaded: 10
+2026-07-16 14:49:43,643 - INFO - Verifying PostgreSQL load.
+2026-07-16 14:49:43,645 - INFO - Verification completed. PostgreSQL row count: 10
+2026-07-16 14:49:43,645 - INFO - API-to-PostgreSQL ETL pipeline completed successfully.
+2026-07-16 14:49:43,646 - INFO - Database engine disposed.
